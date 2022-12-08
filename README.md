@@ -8,11 +8,8 @@ Click on star :star: and fork this repository to your system.
 
 ![2](https://user-images.githubusercontent.com/25504941/91967325-b6d75580-ed30-11ea-9a23-c305decb352c.PNG)
 
-# 3. Detect Multiple persons from photo
 
-![3](https://user-images.githubusercontent.com/25504941/91967341-b9d24600-ed30-11ea-96bc-a5f8ccfb2497.PNG)
-
-# 4. Details of criminal
+# 3. Details of criminal
 
 ![4](https://user-images.githubusercontent.com/25504941/91967352-bc34a000-ed30-11ea-8b0b-cb11d062af91.PNG)
 
